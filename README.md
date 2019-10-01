@@ -1,4 +1,4 @@
-# CCSFPythonFundamentals
+# HW2 Text Analyzer
 
 Create a program that answers questions about word and character usage in the plain text version of Alice in Wonderland (herein AiW), to be posted on Canvas. Organize your code into three modules, submitted in a single .zip file:
 
