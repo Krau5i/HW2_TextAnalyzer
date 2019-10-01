@@ -3,7 +3,7 @@ app specific funcs here
 
 '''
 def mainMenu():
-    print('\nWelcome to the text analyzer! \n')
+    print('\nWelcome to the text analyzer!\n')
     print('To make an inquiry about Alice in Wonderland, press A. Enter Q to exit the program.')
     while True:
         userInput = input('Enter your choice: ')
