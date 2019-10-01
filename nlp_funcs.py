@@ -9,7 +9,7 @@ def readFile():
         for line in f:
             words = line.split()
             for word in words:
-                std_word_freq[word.lower()]=\std_word_freq.get(word.lower(),0) +1
+                std_word_freq[word.lower()]=std_word_freq.get(word.lower(),0) +1
   
 
 import string
