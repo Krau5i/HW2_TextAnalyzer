@@ -32,6 +32,12 @@ def optionFive():
     print('')
 
 def optionSix():
+    i= set([‘a’,’e’,’i’,’o’,’u’])
+    e= set([‘a’,’e’,’i’,’o’,’u’])
+    
+    if  i.intersection(word) == true and e.intersection(word) == false:
+
+    
     print('')
 
 def optionSeven():
